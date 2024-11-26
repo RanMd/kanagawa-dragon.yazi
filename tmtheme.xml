@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>name</key>
-    <string>Kanagawa</string>
+    <string>Kanagawa Dragon</string>
     <key>settings</key>
     <array>
       <dict>
@@ -443,6 +443,6 @@
     <key>colorSpaceName</key>
     <string>sRGB</string>
     <key>semanticClass</key>
-    <string>theme.dark.kanagawa</string>
+    <string>theme.dark.kanagawa-dragon</string>
   </dict>
 </plist>

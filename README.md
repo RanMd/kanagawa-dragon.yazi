@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-    Kanagawa Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
+    Kanagawa Dragon Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
 </h3>
 
 ## 👀 Preview
@@ -13,7 +13,7 @@
 ## 🎨 Installation
 
 ```bash
-ya pack -a dangooddd/kanagawa
+ya pack -a marcosvnmelo/kanagawa-dragon
 ```
 
 ## ⚙️ Usage
@@ -22,7 +22,7 @@ Add these lines to your `theme.toml` configuration file to use it:
 
 ```toml
 [flavor]
-use = "kanagawa"
+use = "kanagawa-dragon"
 ```
 
 ## 📜 License
